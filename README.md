@@ -9,4 +9,7 @@ Some of the code relies on the **fastAUC** function:
 https://www.mathworks.com/matlabcentral/fileexchange/42860-fast-auc-calculator-and-roc-curve-plotter?tab=reviews
 
 **GABA_Abagen_PLS_left.m**
+This script uses a PLS regression to identify genes with similar spatial expression brain maps to the MRI brain maps. 
+
+
 
