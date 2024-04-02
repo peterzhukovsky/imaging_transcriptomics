@@ -12,4 +12,10 @@ https://www.mathworks.com/matlabcentral/fileexchange/42860-fast-auc-calculator-a
 This script uses a PLS regression to identify genes with similar spatial expression brain maps to the MRI brain maps. 
 
 
+**network_vizAHBA.m**
+This script derives a colormap that can be used with the HCP parcellation to create brain map visuals using freesurfer
+
+**PET_receptors.m**
+This script tests for spatial associations between brain maps of PET receptor binding and MRI brain maps.
+
 
